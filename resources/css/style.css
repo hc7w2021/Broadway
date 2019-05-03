@@ -1,20 +1,29 @@
+/* Common styles elevated to body */
+
 body {
     font-family: Helvetica;
     text-align: center;
 }
 
+/* White text */
 #banner, a, #design h3, footer {
     color: white;
 }
+
+/* Bold text */
 
 h1, h2, h3, #design h3 {
     font-weight: bold;
 }
 
+//* Flatiron image added and adjusted */
+
 #banner, #design h3 {
     background-image: url("../images/the-flatiron-building.png");
     background-size: cover;
 }
+
+/* Font sizes */
 
 h1 {
     font-size: 70px;
@@ -39,6 +48,8 @@ p {
 #design h3 {
     font-size: 23px;
 }
+
+/* Bottom bar */
 
 footer {
     text-align: left;
