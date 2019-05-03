@@ -3,10 +3,14 @@ body {
     text-align: center;
 }
 
+nav {
+    background-image: url("./resources/images/the-flatiron-building.png");
+    color: white;
+}
+
 h1 {
     font-size: 70px;
     font-weight: bold;
-    color: white;
 }
 
 a {
@@ -29,7 +33,7 @@ p {
 }
 
 #design h3 {
-    background-image: url("./resources/images/the-flatiron-building.png")
+    background-image: url("./resources/images/the-flatiron-building.png");
     font-size: 23px;
     font-weight: bold;
     color: white;
