@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-nav {
+#banner {
     background-image: url("../images/the-flatiron-building.png");
     color: white;
 }
