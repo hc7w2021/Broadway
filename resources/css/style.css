@@ -6,6 +6,7 @@ body {
 }
 
 /* White text */
+
 #banner, a, #design h3, footer {
     color: white;
 }
