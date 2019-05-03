@@ -2,6 +2,8 @@
 
 ## Unit 3 Day 6-7
 
-### [GitHub Pages Link](https://hc7w2021.github.io/Broadway/)
+[GitHub Pages Link](https://hc7w2021.github.io/Broadway/)
 
-Background images is messed up.  Maybe play around with image sizing.
+### Tips for Students Coming After Me
+
+My flatiron image didn't look right at first so I added a CSS property `background-size: cover;` which fixed it.
