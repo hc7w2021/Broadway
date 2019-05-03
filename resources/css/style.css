@@ -16,7 +16,7 @@ h1, h2, h3, #design h3 {
     font-weight: bold;
 }
 
-//* Flatiron image added and adjusted */
+/* Flatiron image added and adjusted */
 
 #banner, #design h3 {
     background-image: url("../images/the-flatiron-building.png");
