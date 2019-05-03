@@ -13,6 +13,7 @@ h1, h2, h3, #design h3 {
 
 #banner, #design h3 {
     background-image: url("../images/the-flatiron-building.png");
+    background-size: cover;
 }
 
 h1 {
