@@ -3,29 +3,32 @@ body {
     text-align: center;
 }
 
+#banner, a, #design h3, footer {
+    color: white;
+}
+
+h1, h2, h3, #design h3 {
+    font-weight: bold;
+}
+
 #banner {
     background-image: url("../images/the-flatiron-building.png");
-    color: white;
 }
 
 h1 {
     font-size: 70px;
-    font-weight: bold;
 }
 
 a {
     font-size: 18px;
-    color: white;
 }
 
 h2 {
     font-size: 32px;
-    font-weight: bold;
 }
 
 h3 {
     font-size: 23px;
-    font-weight: bold;
 }
 
 p {
@@ -35,13 +38,10 @@ p {
 #design h3 {
     background-image: url("../images/the-flatiron-building.png");
     font-size: 23px;
-    font-weight: bold;
-    color: white;
 }
 
 footer {
     text-align: left;
     font-size: 11px;
-    color: white;
     background-color: dimgray;
 }
